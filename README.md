@@ -1,5 +1,6 @@
 # eCommerce_database
-Designed an eCommerce Database System 
+Designed a small eCommerce Database System 
+
 
 Topics:
 - Swim Lane Diagram
